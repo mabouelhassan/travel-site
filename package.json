@@ -2,6 +2,7 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
+    "gulp-watch": "^5.0.1",
     "jquery": "^3.4.1",
     "normalize.css": "^8.0.1"
   },
