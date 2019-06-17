@@ -1,0 +1,14 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "gulp": "3.9.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-watch": "4.3.11"
+  }
+}
