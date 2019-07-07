@@ -7,7 +7,7 @@
         padding-bottom : 2.5rem;
     }
 
-    img {
+    &__icon {
         display : block;
         margin : 0 auto;
         position : relative;
